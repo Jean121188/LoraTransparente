@@ -1,3 +1,7 @@
+/*
+  Este Código foi desenvolvido por Jean de Souza
+
+*/
 #include <LoRa.h>
 #include <SPI.h>
 #include <Wire.h>
